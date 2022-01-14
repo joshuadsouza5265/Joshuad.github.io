@@ -77,8 +77,6 @@ body{
 #home .large-header {
 	background-image: url("../images/pattern.png"),url('../images/img-3.jpg');
 	background-position:center;
-	width:200px;
-    height:200px;
 }
 .home-main {
 	position: absolute;
