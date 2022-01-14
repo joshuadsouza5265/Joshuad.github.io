@@ -415,6 +415,46 @@ li.social-btn {
     margin-left: -0.5em;   
     margin-top: -0.3em;
 }
+#sc{
+    border: 2px solid yellow;
+    color : yellow;
+}
+#sc a{
+    color: yellow
+}
+#sc:hover{
+    background-color: yellow;
+}
+#sc:hover a{
+    color: #fff;
+}
+#ig{
+    border: 2px solid #8a3ab9;
+    color : #8a3ab9;
+}
+#ig a{
+    color: #8a3ab9
+}
+#ig:hover{
+    background-color: #8a3ab9;
+}
+#ig:hover a{
+    color: #fff;
+}
+#sp{
+    border: 2px solid #1DB954;
+    color : #1DB954;
+}
+#sp a{
+    color: #1DB954
+}
+#sp:hover{
+    background-color: #1DB954;
+}
+#sp:hover a{
+    color: #fff;
+}
+
 #fb{
     border: 2px solid #3b5998;
     color: #3b5998;
