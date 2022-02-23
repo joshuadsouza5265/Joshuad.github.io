@@ -1,16 +1,3 @@
- /*
-	Indus by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
-/* Settings In style.css :
-    1. General
-    2.Home/Countdown
-    3.Newsletter
-    4.Features
-    5.Contact-Us
-*/
 
 /* ==============================================
 1.GENERAL
@@ -522,10 +509,10 @@ li.social-btn {
 
 .footer{
     padding-bottom: 100px;
-    background-color: black;
+    background-color: #000000;
 }
 .copyright{
     padding-top: 10px;
-    background-color: black;
+    background-color: #000000;
 }
 
